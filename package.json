@@ -1,7 +1,7 @@
 {
     "name": "buscardor-node",
     "version": "1.0.0",
-    "description": "ejercicio de evaluación",
+    "description": "evaluación node - buscador",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/eandres8/buscador-node-nextu.git"
+        "url": "git+https://github.com/AlejandrLara12/nextu-evaluacion-final-backend.git"
     },
-    "author": "elb.andres8@gmail.com",
+    "author": "alejandro.elara@gmail.com",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/eandres8/buscador-node-nextu/issues"
-    },
-    "homepage": "https://github.com/eandres8/buscador-node-nextu#readme",
     "devDependencies": {
         "body-parser": "^1.18.2",
         "express": "^4.16.2",
